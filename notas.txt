@@ -1,0 +1,10 @@
+1. Crear el archivo app y ejecutar npm init
+2. Instalar express
+3. Crear server en puerto 3000
+4. Crear alguos endpoints
+5. Crear la conexión a BD
+6. Crear CRUD
+    Create
+    Read
+    Update
+    Delete
